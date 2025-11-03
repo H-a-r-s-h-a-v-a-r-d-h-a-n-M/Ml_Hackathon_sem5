@@ -1,0 +1,10 @@
+{
+  "final_score": -52680.0,
+  "success_rate": 0.29,
+  "games_played": 2000,
+  "games_won": 580,
+  "total_wrong_guesses": 10652,
+  "total_repeated_guesses": 0,
+  "avg_wrong_guesses": 5.326,
+  "avg_repeated_guesses": 0.0
+}
